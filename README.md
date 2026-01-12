@@ -1,10 +1,5 @@
 # Large-Scale Multi-Agent LLM Benchmarking Framework: A High-Performance System for Evaluating Language Models on Code Generation Tasks
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/Kishorelin03/linux-ai-benchmark)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.4.0-orange)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-Open%20Source-green)](LICENSE)
-
 ## Abstract
 
 This project presents a comprehensive, high-performance benchmarking framework for evaluating large language models (LLMs) on code generation tasks using the HumanEval dataset. The system implements advanced parallelization techniques including data parallelism, asynchronous task distribution, and GPU batching to achieve significant performance improvements. Through careful optimization of memory usage, context switching, and resource utilization, the framework achieves 3.5x speedup over sequential execution while maintaining low context switching rates (~6 switches/second) through cooperative multitasking. The system supports multi-agent cross-evaluation, enabling comprehensive assessment of model performance across diverse task sets.
