@@ -768,18 +768,6 @@ This project is open source. Please check the repository for license information
 - [Weights & Biases](https://wandb.ai/) for experiment tracking
 - [Meta Llama](https://llama.meta.com/) for the language model
 
----
-
-## 17. Contact
-
-- **GitHub**: [@Kishorelin03](https://github.com/Kishorelin03)
-- **Repository**: [https://github.com/Kishorelin03/linux-ai-benchmark](https://github.com/Kishorelin03/linux-ai-benchmark)
-- **Issues**: [Report an issue](https://github.com/Kishorelin03/linux-ai-benchmark/issues)
-
----
-
-**⭐ If you find this project useful, please star it on GitHub!**
-
 [![GitHub stars](https://img.shields.io/github/stars/Kishorelin03/linux-ai-benchmark?style=social)](https://github.com/Kishorelin03/linux-ai-benchmark/stargazers)
 
 ---
